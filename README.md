@@ -1,6 +1,6 @@
 # Lacrosse Website
 
-![Preview](/assets/)
+![Preview](/assets/preview.png)
 
 Created to Show:
 
